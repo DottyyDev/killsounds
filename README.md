@@ -22,7 +22,7 @@ I would say its pretty easy, but i have zero clue the talent most of you have, s
 # Modding
 The code was basically designed to be added to. If you know pyhton well you can figure it out but for all the brainless skywars players that hard focus someone and then get you both killed, heres how you do it
   
-On lines 10 and 12, you will see the following two lists:
+On lines 13 and 15, you will see the following two lists:
   
 ``` py 
 listen = ['+1 Ender Pearl! (Black Magic Perk)','You have assisted killing','You won! Want to play again? Click here! ','+1 SkyWars Experience (Kill)'] # What the program should look for in the chat logs
