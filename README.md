@@ -8,7 +8,7 @@ I would say its pretty easy, but i have zero clue the talent most of you have, s
 * download it
 * unzip it
 * make sure you have python installed
-* go into values.txt and find a logs folder for minecraft, the one i personally use is the lunar client one, which is found at C:/Users/<your windows user>/.lunarclient/logs/launcher/renderer.log, but i think the normal minecraft logs also work
+* go into values.txt and find a logs folder for minecraft, the one i personally use is the lunar client one, which is found at C:/Users/[your windows user]/.lunarclient/logs/launcher/renderer.log, but i think the normal minecraft logs also work
 * go to command line and type in the following command `py -m pip install playsound`, this installs the one python plugin used in this project.
 * Now you should be all set to use the project, so go in the folder the project is in, press `shift+right click`, and select `Open PowerShell window here`, once it loads type in the terminal `py main.py` and it shoudl start!
   
