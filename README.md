@@ -18,7 +18,6 @@ I would say its pretty easy, but i have zero clue the talent most of you have, s
 * Sound on win
 * Sound on getting an ender pearl via Black Magic perk
 * Alarm sound when getting an assist(so you know you didnt get strength and die form a kill steal)
-* A system that keeps two lists that reset every session, God gamers and Bhoppers
 # Modding
 The code was basically designed to be added to. If you know pyhton well you can figure it out but for all the brainless skywars players that hard focus someone and then get you both killed, heres how you do it
   
